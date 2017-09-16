@@ -41,3 +41,73 @@ addressing each of the following:
 
 **Duration**: Indicate the number of 90-minute sessions your event will
 require.
+
+
+
+Notes / key points:
+
+-   theme: what are we, could we teach in the “target space” (KO; also
+    > see below)
+
+-   target audience:
+
+    -   iSchool faculty teaching knowledge organization courses;
+        > metadata; ontology construction; etc.
+
+-   ahead of time:
+
+    -   organizers conduct some hands-on exercises, work with use cases,
+        > tools
+
+    -   connect methods and lessons learned from the exercises to
+        > learning objectives and pedagogical goals at iSchool classes
+        > on KO
+
+-   during the session:
+
+    -   comparison of exercise results
+
+    -   social dimension: how working with these tools, exercises has
+        > influenced, changed, other activities at the iSchool
+        > (seminars, activities across classes?, ..)
+
+    -   discussion
+
+Bertram and I are preparing a workshop proposal on taxonomy
+alignment in iSchools curricula. We have in mind a hands on exercise
+along these lines:
+
+1.  Organizers agree on two ontologies/vocabularies that admit different
+    > strategies and choices for how they could be aligned with or
+    > mapped to each other.
+
+2.  All participants are invited to prepare specific alignment
+    > proposals, using whatever methods or tools they like.
+
+3.  We share and compare the alignments in advance of the March meeting
+    > in Sheffield.
+
+4.  We use the limited face-to-face time at iSchools 2018 for a
+    > discussion of what our students should know about taxonomy
+    > alignment, using the outcomes from the exercise as discussion foci
+    > and illustration.
+
+
+
+
+# Abstract
+
+Abstract goes here.
+
+# Description
+
+## Purpose and Intended Audience
+
+## Proposed Activities
+
+including agenda, rampup (development) and followthrough
+
+## Relevance and significance
+
+(to the conference and the field, respectively)
+

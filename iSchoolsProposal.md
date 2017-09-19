@@ -93,11 +93,39 @@ along these lines:
     > and illustration.
 
 
-
+Title: Taxonomy Alignment in the iSchool Knowledge Organization Curriculum
 
 # Abstract
 
-Abstract goes here.
+Mapping or alignment of taxonomies and controlled vocabularies has
+been an active research area for decades, and the increasing variety
+of resources tagged with competing, publicly documented descriptor
+sets presents new challenges to information professionals every
+year. Entire conferences are now dedicated to reconciliation problems
+that are narrowly scoped in comparison to the range of methods
+proposed and tested during the last fifty years. What role does (or
+may) this rich history and current practice inform our courses on
+knowledge organization and resource description? Participants in this
+session are invited to share a taxonomy alpwd
+
+
+
+ignment exercise during the
+months leading up to iConference 2018, and to use the outcomes,
+results, and lessons from that exercise as foci for a discussion of
+what our students should know about reconciling competing description
+standards. For details consult the project website:
+https://taxalignmentworkshop.github.io/
+
+
+
+The exercise consists of a small set of related
+vocabularies and an invitation to employ any tools, strategies and
+choices they wish for aligning or mapping those languages to each
+other.
+
+
+
 
 # Description
 

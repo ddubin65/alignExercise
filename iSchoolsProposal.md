@@ -1,101 +1,10 @@
-**2018 SIE Call**
+---
+title: Taxonomy Alignment in the iSchool Knowledge Organization Curriculum
+author: David Dubin and Bertram Ludäscher
+date: September 17, 2017
+---
 
-Sessions for Interaction and Engagement (SIEs) are activities that
-involve participants as more than a passive audience, such as by:
-
--   introducing **engaging topics that invite commentary from the
-    > participants**, or
-
--   being **directly engaging**, through search contests, design
-    > sessions, hackathons, creativity spaces, or sessions that invite
-    > the participants to vote on, for example, ethical issues or policy
-    > ramifications, and then to talk more about the issues raised, or
-
--   providing a **space for learning, reflection, and
-    > relationship-building** through interactive installations or
-    > exhibitions
-
-**Abstract**: A **150-word abstract** to be published in the program
-schedule.
-
-**Description**: A description of the event of up to **1,000 words**,
-addressing each of the following:
-
--   **Purpose and Intended Audience:** Please state the audience to
-    > which your event is designed to appeal and the goals and/or
-    > expected outcomes for your event.
-
--   **Proposed activities including agenda, ramp-up (development), and
-    > follow-through:** Describe how your event will be organized. The
-    > format is up to you: we welcome creative ideas for lively events
-    > of all kinds. To advance beyond “sage on the stage,” explain the
-    > strategies you will use to engage session attendees. Also, please
-    > comment if you plan to prepare a report, proceedings, wiki, or
-    > website to disseminate the results of your event as follow-up.
-
--   **Relevance to the Conference/Significance to the Field**: Briefly
-    > state the focus of your proposal topic and note the importance,
-    > relevance, value, and/or interest to the broad iSchool community.
-    > Provide a brief explanation of how this event will appeal to the
-    > audience both with respect to content and format.
-
-**Duration**: Indicate the number of 90-minute sessions your event will
-require.
-
-
-
-Notes / key points:
-
--   theme: what are we, could we teach in the “target space” (KO; also
-    > see below)
-
--   target audience:
-
-    -   iSchool faculty teaching knowledge organization courses;
-        > metadata; ontology construction; etc.
-
--   ahead of time:
-
-    -   organizers conduct some hands-on exercises, work with use cases,
-        > tools
-
-    -   connect methods and lessons learned from the exercises to
-        > learning objectives and pedagogical goals at iSchool classes
-        > on KO
-
--   during the session:
-
-    -   comparison of exercise results
-
-    -   social dimension: how working with these tools, exercises has
-        > influenced, changed, other activities at the iSchool
-        > (seminars, activities across classes?, ..)
-
-    -   discussion
-
-Bertram and I are preparing a workshop proposal on taxonomy
-alignment in iSchools curricula. We have in mind a hands on exercise
-along these lines:
-
-1.  Organizers agree on two ontologies/vocabularies that admit different
-    > strategies and choices for how they could be aligned with or
-    > mapped to each other.
-
-2.  All participants are invited to prepare specific alignment
-    > proposals, using whatever methods or tools they like.
-
-3.  We share and compare the alignments in advance of the March meeting
-    > in Sheffield.
-
-4.  We use the limited face-to-face time at iSchools 2018 for a
-    > discussion of what our students should know about taxonomy
-    > alignment, using the outcomes from the exercise as discussion foci
-    > and illustration.
-
-
-Title: Taxonomy Alignment in the iSchool Knowledge Organization Curriculum
-
-# Abstract
+# Relevance and significance
 
 Mapping or alignment of taxonomies and controlled vocabularies has
 been an active research area for decades, and the increasing variety
@@ -105,37 +14,63 @@ year. Entire conferences are now dedicated to reconciliation problems
 that are narrowly scoped in comparison to the range of methods
 proposed and tested during the last fifty years. What role does (or
 may) this rich history and current practice inform our courses on
-knowledge organization and resource description? Participants in this
-session are invited to share a taxonomy alpwd
+knowledge organization and resource description? The appeal of this
+event will be an opportunity to explore these questions by drawing on
+choices made and lessons learned during a shared hands-on exercise.
+
+# Purpose and Intended Audience
+
+The main audience for this activity will be those iSchool faculty
+actively teaching classes in knowledge organization, classification,
+metadata, thesaurus construction, ontology development, and principles
+of resource analysis and description. It may also be of interest to
+faculty who teach broader required survey courses or who participate
+on iSchool curriculum committees. Participants will be invited to
+share a taxonomy alignment exercise during the months leading up to
+iConference 2018, and to use the outcomes, results, and lessons from
+that exercise as foci for a discussion of what our students should
+know about reconciling competing description standards. Goals for the
+session include:
+
+1. Prompting a discussion of how current vocabulary alignment and
+   reconciliation problems do or should inform the broader learning
+   outcomes of our graduate education programs; 
+
+2. Eliciting a comparison of methods, tools, and interchange formats
+   employed by participants in the alignment exercise and a discussion
+   of their potential for enriching student experiences in the classroom;
+
+3. Informing reflection on learning experiences outside the classroom, such
+   as student participation in research and practica.
+
+# Proposed Activities
+
+The exercise involves a small set of related vocabularies and an
+invitation to employ any tools, strategies and choices participants
+wish for aligning or mapping those languages to each other. The data
+consist of sixteen OWL ontologies all related to conference
+organization, and collected as part of the OntoFarm Project
+[^1]. Participants may work with any two or more of those they
+wish. Participants may take advantage of as much expressive power of
+the original files as they choose, or reduce the data to a simpler
+form, such as generic hierarchical and associative relationships
+(e.g., SKOS).  They may even choose to discard all term relationships,
+and base their alignment on lexical resemblance alone.
+
+[^1]: Zamazal, O., Svátek, V. (2017). "The Ten-Year OntoFarm and its Fertilization within the Onto-Sphere." *Web Semantics: Science, Services and Agents on the World Wide Web*, 43, 46-53.
 
 
+The project website (https://taxalignmentworkshop.github.io/) will go
+live on November 1, with instructions for participants, links to the
+data, a repository for sharing results, and a forum for coordination
+and discussion. Participants may join the activity and discussions at
+any time during the months of November through February, but alignment
+preparation will discontinue after February 28, and we will devote the
+first two weeks of March to wrap up forum discussions and prepare a
+discussion agenda for the iConference session.
 
-ignment exercise during the
-months leading up to iConference 2018, and to use the outcomes,
-results, and lessons from that exercise as foci for a discussion of
-what our students should know about reconciling competing description
-standards. For details consult the project website:
-https://taxalignmentworkshop.github.io/
+We request one 90 minute session during iSchools 2018. The repository
+of illustrations and examples that emerge from participants' alignment
+work will remain online after the conference concludes.
 
-
-
-The exercise consists of a small set of related
-vocabularies and an invitation to employ any tools, strategies and
-choices they wish for aligning or mapping those languages to each
-other.
-
-
-
-
-# Description
-
-## Purpose and Intended Audience
-
-## Proposed Activities
-
-including agenda, rampup (development) and followthrough
-
-## Relevance and significance
-
-(to the conference and the field, respectively)
 
